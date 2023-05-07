@@ -5,6 +5,7 @@ import Main from './components/Main';
 import Main2 from './components/Main2';
 import About from './components/About';
 import Nav from './components/Nav';
+import Table from './components/Table';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     <Route path="/main" element={<Main/>}/>
     <Route path="/main2" element={<Main2/>}/>
     <Route path="/about" element={<About/>}/>
+    <Route path = "/table" element = {<Table/>} />
    </Routes>
    </BrowserRouter>
   );

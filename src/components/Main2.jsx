@@ -23,7 +23,7 @@ const Main2 = () => {
         quo illum laboriosam ab consequatur itaque dignissimos ut unde! Iste
         assumenda illum nobis mollitia omnis, vitae quidem vero dolor ratione
         obcaecati cupiditate porro quod sint voluptatem dolorem itaque ea ipsa
-        ullam pariatur eius officiis quae alias doloribus. Suscipit ipsa magni
+        ullam pariatur eius officiis quae alias doloribus. Suscipit ipsa magninpm 
         recusandae, neque nobis laborum a adipisci. Ea exercitationem in
         accusamus autem quis labore laborum nobis placeat ipsam consequuntur,
         optio fugiat enim, natus quo, adipisci quaerat dolorum! Quis nesciunt
